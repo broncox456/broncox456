@@ -1,16 +1,55 @@
-## Hi there 👋
+# Cristian Arias, MD
 
-<!--
-**broncox456/broncox456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nephrologist | Internal Medicine Specialist | Healthcare Data Analyst | Bioinformatics | Kidney Disease & Clinical Research
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a practicing nephrologist and internal medicine specialist with a strong focus on healthcare data, clinical research, and bioinformatics.
+
+My work combines real-world clinical experience with data analysis to better understand kidney disease, improve decision-making, and explore translational applications of molecular data.
+
+I am particularly interested in bridging clinical medicine with data-driven approaches, including epidemiology, transcriptomics, and multi-omics integration.
+
+---
+
+## Current Focus
+
+* Chronic Kidney Disease (CKD)
+* Diabetic Kidney Disease (DKD)
+* Glomerular diseases (FSGS, lupus nephritis)
+* Clinical data analysis and epidemiology
+* Multi-omics and translational research
+
+---
+
+## Selected Projects
+
+### 🔬 DKD Multi-Omics Integration
+
+Integration of kidney transcriptomics and urinary proteomics to explore cross-compartment molecular consistency.
+
+### 🧬 FSGS RNA-seq Analysis
+
+Transcriptomic analysis focused on fibrosis and inflammatory pathways in disease progression.
+
+### 🌍 CKD Epidemiology – Dominican Republic
+
+Real-world analysis of CKD in primary care settings, integrating clinical and sociodemographic data.
+
+---
+
+## Technical Skills
+
+* R (limma, DESeq2)
+* Python (data analysis)
+* SQL
+* Power BI
+* Bioinformatics workflows
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/cristian-arias-healthcare-data
