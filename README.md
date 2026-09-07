@@ -1,6 +1,6 @@
 # Cristian Arias, MD
 
-**Nephrologist | Internal Medicine Specialist | Healthcare Data Scientist | Bioinformatics**
+**Nephrologist | Internal Medicine Specialist | Clinical Research & Real-World Data Analytics | Bioinformatics (MSc)**
 
 ---
 
@@ -16,28 +16,33 @@ I am particularly interested in the intersection between **clinical nephrology, 
 
 ## Core Areas of Interest
 
-* Chronic Kidney Disease (CKD) and progression modeling
-* Diabetic Kidney Disease (DKD) and metabolic-fibrotic pathways
-* Glomerular diseases (FSGS, lupus nephritis)
-* Hemodialysis outcomes and risk stratification
-* Translational bioinformatics (RNA-seq, single-cell, multi-omics integration)
-* Real-world clinical data analysis in low-resource settings
+• Chronic Kidney Disease (CKD) and progression modeling
+• Diabetic Kidney Disease (DKD) and metabolic-fibrotic pathways
+• Glomerular diseases (FSGS, lupus nephritis)
+• Hemodialysis outcomes and risk stratification
+• Translational bioinformatics (RNA-seq, single-cell, multi-omics integration)
+• Real-world clinical data analysis in low-resource settings
 
 ---
 
 ## Featured Projects
 
-### 🥇 Hemodialysis Survival Prediction (ML + SHAP)
+### 🌍 CKD Primary Care – Dominican Republic (Real-World Data)
 
-Clinical machine learning model for 1-year mortality prediction in hemodialysis patients, with interpretable feature attribution using SHAP.
-Focus on translating predictive modeling into clinically meaningful risk patterns.
+Analysis of CKD burden in primary care settings integrating clinical and sociodemographic data.
+Highlights challenges and opportunities of working with **real-world, imperfect datasets** in resource-limited environments.
 
 ---
 
-### 🧬 TCGA KIRC Multi-Omics Survival Signature
+### 💧 Hemodialysis – Intradialytic Hypotension Risk Analysis
 
-Integration of transcriptomic, proteomic, and clinical data from TCGA to identify molecular patterns associated with survival in renal cell carcinoma.
-Demonstrates multi-omics integration and survival analysis in a clinically relevant context.
+Real-world hemodialysis data analysis focused on intradialytic hypotension, clinical risk patterns, and patient-level hemodynamic phenotyping.
+
+---
+
+### 🧬 TFM: Transcriptomic Analysis of Chronic Kidney Disease
+
+Reproducible bioinformatics pipeline for transcriptomic analysis of chronic kidney disease (CKD) using public microarray data (GSE12682), developed as part of the Master's in Bioinformatics (UAX).
 
 ---
 
@@ -55,20 +60,30 @@ Emphasizes cellular heterogeneity and pathophysiological mechanisms at single-ce
 
 ---
 
-### 🌍 CKD Epidemiology – Dominican Republic (Real-World Data)
+### 🧮 TCGA KIRC Multi-Omics Survival Signature
 
-Analysis of CKD burden in primary care settings integrating clinical and sociodemographic data.
-Highlights challenges and opportunities of working with **real-world, imperfect datasets** in resource-limited environments.
+Integration of transcriptomic, proteomic, and clinical data from TCGA to identify molecular patterns associated with survival in renal cell carcinoma.
+Demonstrates multi-omics integration and survival analysis in a clinically relevant context.
+
+---
+
+### ⚠️ Methodological Demonstration (Synthetic Data)
+
+**Hemodialysis Survival Prediction (ML + SHAP)**
+
+Clinical machine learning model for 1-year mortality prediction in hemodialysis patients, with interpretable feature attribution using SHAP.
+
+*Synthetic clinically grounded dataset. Methodological demonstration. Not a clinical prediction tool. Not externally validated. Not intended for patient-level decisions.*
 
 ---
 
 ## Technical Skills
 
-* **R**: limma, DESeq2, Bioconductor ecosystem
-* **Python**: data analysis, machine learning workflows
-* **SQL**: clinical data querying
-* **Power BI**: data visualization and dashboarding
-* Reproducible research pipelines (Git, scripting, structured workflows)
+• **R**: limma, DESeq2, Bioconductor ecosystem
+• **Python**: data analysis, machine learning workflows
+• **SQL**: clinical data querying
+• **Power BI**: data visualization and dashboarding
+• Reproducible research pipelines (Git, scripting, structured workflows)
 
 ---
 
@@ -76,9 +91,9 @@ Highlights challenges and opportunities of working with **real-world, imperfect 
 
 My goal is to develop a **clinically grounded data science profile**, capable of bridging:
 
-* Patient-level clinical insight
-* Population-level epidemiology
-* Molecular-level bioinformatics
+• Patient-level clinical insight
+• Population-level epidemiology
+• Molecular-level bioinformatics
 
 with a strong emphasis on **interpretability, reproducibility, and real-world applicability**.
 
@@ -88,4 +103,3 @@ with a strong emphasis on **interpretability, reproducibility, and real-world ap
 
 LinkedIn:
 https://www.linkedin.com/in/cristian-arias-healthcare-data
-
