@@ -114,7 +114,7 @@ Kidney precision medicine for Latin American and Caribbean populations; non-inva
 
 ## Training
 
-MD, Universidad Autónoma de Santo Domingo · Internal Medicine (2016) and Nephrology (2019), UASD / Hospital Docente Padre Billini · MSc Bioinformatics and Precision Medicine, Universidad Alfonso X el Sabio, Spain (2026)
+MD, Universidad Autónoma de Santo Domingo · Internal Medicine (2016) and Nephrology (2019), UASD / Hospital Docente Padre Billini ·MSc in Bioinformatics (Máster Universitario en Bioinformática), Universidad Alfonso X el Sabio, Spain — studies completed July 2026
 
 Member, Scientific and Research Committee — Sociedad Dominicana de Nefrología (SODONEF), 2026 Board · Research Committee Board Member, Hospital Nuestra Señora de Regla
 
@@ -122,5 +122,4 @@ Member, Scientific and Research Committee — Sociedad Dominicana de Nefrología
 
 **Disclaimer** — Every repository here is research or methodological work. None of it is a validated clinical decision-support tool, none has regulatory clearance, and none should be used for patient-level decisions. Datasets are public, published, de-identified, or synthetic; raw identifiable clinical data are not shared.
 
-📩 Open to collaboration and to roles in precision medicine, translational and clinical research, clinical data science and real-world evidence — [LinkedIn](https://www.linkedin.com/in/cristian-arias-healthcare-data/)
- · [ORCID 0009-0009-7503-222X](https://orcid.org/0009-0009-7503-222X)
+📩 Open to collaboration and to roles in precision medicine, translational and clinical research, clinical data science and real-world evidence — [LinkedIn](https://www.linkedin.com/in/cristian-arias-healthcare-data/) · [ORCID 0009-0009-7503-222X](https://orcid.org/0009-0009-7503-222X)
