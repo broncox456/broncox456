@@ -123,3 +123,4 @@ Member, Scientific and Research Committee — Sociedad Dominicana de Nefrología
 **Disclaimer** — Every repository here is research or methodological work. None of it is a validated clinical decision-support tool, none has regulatory clearance, and none should be used for patient-level decisions. Datasets are public, published, de-identified, or synthetic; raw identifiable clinical data are not shared.
 
 📩 Open to collaboration and to roles in precision medicine, translational and clinical research, clinical data science and real-world evidence — [LinkedIn](https://www.linkedin.com/in/cristian-arias-healthcare-data/)
+ · [ORCID 0009-0009-7503-222X](https://orcid.org/0009-0009-7503-222X)
